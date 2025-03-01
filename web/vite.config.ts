@@ -8,6 +8,6 @@ export default defineConfig({
   base: './',
   build: {
     // Output to docs folder for GitHub Pages
-    outDir: './docs'
+    outDir: './dist'
   },
 })

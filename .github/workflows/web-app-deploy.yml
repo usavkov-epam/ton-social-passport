@@ -40,7 +40,7 @@ jobs:
         with:
           node-version: 18
           cache: 'yarn'
-          cache-dependency-path: './'
+          cache-dependency-path: './web'
 
       - name: Install dependencies
         run: yarn

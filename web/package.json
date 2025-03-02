@@ -13,6 +13,7 @@
     "@tonconnect/ui-react": "^2.0.11",
     "@twa-dev/sdk": "^8.0.2",
     "@vitejs/plugin-basic-ssl": "^1.2.0",
+    "eruda": "^3.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
